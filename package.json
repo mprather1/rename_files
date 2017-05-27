@@ -1,0 +1,12 @@
+{
+  "name": "rename_files",
+  "version": "0.0.1",
+  "description": "Rename files in a directory",
+  "main": "index.js",
+  "repository": "https://github.com/mprather1/rename_files",
+  "author": "Michael Prather",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
