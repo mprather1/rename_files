@@ -8,4 +8,4 @@ YYYY-MM-DD-{filename}-{sequential number}
 
 ### Usage 
 
-    node rename_files directory
+    node index.js directory
