@@ -8,4 +8,4 @@ YYYY-MM-DD-{filename}-{sequential number}
 
 ### Usage 
 
-    node index.js directory
+    ./index.js directory

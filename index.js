@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require('fs')
 const dirname = process.argv[2]
 const moment = require('moment')

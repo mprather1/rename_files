@@ -1,6 +1,6 @@
 {
   "name": "rename_files",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Rename files in a directory",
   "main": "index.js",
   "repository": "https://github.com/mprather1/rename_files",
